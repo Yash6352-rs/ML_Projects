@@ -1,10 +1,10 @@
-# 🧠 ML_Projects
+# ML_Projects
 
 This repository showcases beginner to intermediate machine learning projects developed during my learning journey. Each project demonstrates end-to-end ML workflows including data preprocessing, model training, evaluation, and deployment using web frameworks like Streamlit and Gradio.
 
 ---
 
-## 📌 Projects Overview
+## Projects Overview
 
 ### 1. **BMI Category Prediction**  
 This project calculates an individual's Body Mass Index (BMI) using height and weight inputs and classifies them into five categories:  
