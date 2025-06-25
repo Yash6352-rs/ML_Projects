@@ -50,19 +50,25 @@ This ML project determines whether a loan application is likely to be approved b
 
 ---
 
-How to Run Locally
-You can run the Flight Delay Prediction and Loan Eligibility Prediction projects locally using Streamlit.
+## How to Run Locally
+You can run the **Flight Delay Prediction** and **Loan Eligibility Prediction** projects locally using Streamlit.
 
-1. Clone the Repository
+### 1. Clone the Repository
 git clone https://github.com/your-username/ML_Projects.git
 cd ML_Projects
 
-2. pip install pandas numpy scikit-learn streamlit seaborn matplotlib
+### 2. pip install pandas numpy scikit-learn streamlit seaborn matplotlib
 
-3. Run the Apps
-  -> Flight Delay Prediction
+### 3. Run the Apps
+
+  ## BMI Category Prediction (Gradio)
+      cd bmi_category_predictor
+      python app.py
+
+  ## Flight Delay Prediction
       cd flight_delay_prediction
-      streamlit run app.py
- -> Loan Eligibility Prediction
+      streamlit run main.py
+      
+  ## Loan Eligibility Prediction
       cd loan_eligibility_prediction
       streamlit run app.py
