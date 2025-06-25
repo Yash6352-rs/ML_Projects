@@ -85,8 +85,8 @@ model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 
-print("✅ Accuracy:", accuracy_score(y_test, y_pred))
-print("\n📋 Classification Report:\n", classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("Classification Report:\n", classification_report(y_test, y_pred))
 
 
 joblib.dump(model, 'flight_delay_model.pkl')
