@@ -54,7 +54,8 @@ This ML project determines whether a loan application is likely to be approved b
 You can run the **Flight Delay Prediction** and **Loan Eligibility Prediction** projects locally using Streamlit.
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/ML_Projects.git
+git clone https://github.com/Yash6352-rs/ML_Projects.git
+
 cd ML_Projects
 
 ### 2. pip install pandas numpy scikit-learn streamlit seaborn matplotlib
