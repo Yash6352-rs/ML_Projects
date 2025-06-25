@@ -58,7 +58,8 @@ git clone https://github.com/Yash6352-rs/ML_Projects.git
 
 cd ML_Projects
 
-### 2. pip install pandas numpy scikit-learn streamlit seaborn matplotlib
+### 2. Install some libraries
+pip install pandas numpy scikit-learn streamlit seaborn matplotlib
 
 ### 3. Run the Apps
 
