@@ -6,7 +6,7 @@ This repository showcases beginner to intermediate machine learning projects dev
 
 ## Projects Overview
 
-### 1. **BMI Category Prediction**  
+### 1. **BMI Category Prediction**  *(Gradio)*
 This project calculates an individual's Body Mass Index (BMI) using height and weight inputs and classifies them into five categories:  
 `Extremely Weak`, `Weak`, `Normal`, `Overweight`, or `Obesity`.
 
@@ -67,10 +67,10 @@ pip install pandas numpy scikit-learn streamlit seaborn matplotlib
       cd bmi_category_predictor
       python app.py
 
-  ## Flight Delay Prediction
+  ## Flight Delay Prediction (Streamlit App)
       cd flight_delay_prediction
       streamlit run main.py
       
-  ## Loan Eligibility Prediction
+  ## Loan Eligibility Prediction (Streamlit App)
       cd loan_eligibility_prediction
       streamlit run app.py
