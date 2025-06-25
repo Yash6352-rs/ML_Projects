@@ -25,6 +25,6 @@ features = np.array([[carrier_encoded, crs_dep_time, day_of_week, distance, orig
 if st.button("Predict Delay"):
     prediction = model.predict(features)[0]
     if prediction == 1:
-        st.error("⚠️ Flight is likely to be delayed.")
+        st.error("Flight is likely to be delayed.")
     else:
-        st.success("✅ Flight is likely to be on time.")
+        st.success("Flight is likely to be on time.")
