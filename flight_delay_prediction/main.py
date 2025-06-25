@@ -16,6 +16,7 @@ print(df.shape)
 print(df.info())
 print(df.isnull().sum())
 
+# using only 10000 rows so pc runs properly
 df = df.sample(n=10000, random_state=42)
 
 # remove nan row
