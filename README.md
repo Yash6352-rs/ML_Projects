@@ -10,7 +10,7 @@ This repository showcases beginner to intermediate machine learning projects dev
 This project calculates an individual's Body Mass Index (BMI) using height and weight inputs and classifies them into five categories:  
 `Extremely Weak`, `Weak`, `Normal`, `Overweight`, or `Obesity`.
 
-- **Dataset:** [Real-world height-weight data ](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex) 
+- **Dataset:** [500 Person Gender-Height-Weight-Body Mass Index ](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex) 
 - **Model:** Decision Tree Classifier  
 - **Steps Covered:**  
   - BMI calculation formula  
@@ -23,7 +23,7 @@ This project calculates an individual's Body Mass Index (BMI) using height and w
 ### 2. **Flight Delay Prediction** *(Streamlit App)*  
 This project predicts whether a flight will be delayed by more than 15 minutes using key features such as the airline, day of the week, scheduled departure time, and distance.
 
-- **Dataset:** [Cleaned flight delay dataset](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses) 
+- **Dataset:** [Airlines Delay](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses) 
 - **Model:** Random Forest Classifier  
 - **Steps Covered:**  
   - Exploratory Data Analysis (EDA)  
