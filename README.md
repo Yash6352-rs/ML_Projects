@@ -88,6 +88,8 @@ pip install pandas numpy scikit-learn streamlit seaborn matplotlib
       cd loan_eligibility_prediction
       streamlit run app.py
 
+---
+
 ### 📈 Model Evaluation
 
 Each project prints performance metrics such as:
@@ -99,15 +101,15 @@ In addition, the Loan Eligibility app provides:
   -> Visual Insights (count plots, boxplots, correlation heatmaps)
   -> EDA-driven feature understanding
 
+---
+
 ### 🤝 Contributing
 
 Pull requests are welcome! If you want to improve the models, refactor the code, or build new apps, feel free to fork and contribute.
 For major changes, open an issue first to discuss what you would like to change.
 
+---
 
 ### 📬 Contact
 Created with ❤️ by Yash Panchal
 For questions, ideas, or collaborations, reach me via GitHub.
-
-
-
